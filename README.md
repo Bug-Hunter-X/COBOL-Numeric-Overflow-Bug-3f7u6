@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: numeric overflow.  The `bug.cob` file contains code that initializes a numeric variable to its maximum value and then attempts to increment it. This leads to undefined behavior. The `bugSolution.cob` file provides a corrected version.
